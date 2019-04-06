@@ -1,3 +1,11 @@
+
+[![Deploy to Azure](http://azuredeploy.net/deploybutton.png)](https://azuredeploy.net/)
+
+
+
+
+
+
 # Microsoft AI Lab
 What is [AI Lab?](https://www.ailab.microsoft.com/experiments)
 
